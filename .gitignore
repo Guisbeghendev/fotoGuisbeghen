@@ -1,0 +1,15 @@
+touch .gitignore
+
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar o arquivo .env
+.env
+
+# Ignorar arquivos de log
+logs/
+*.log
+
+# Ignorar arquivos de build ou distribuição (exemplo)
+build/
+dist/
